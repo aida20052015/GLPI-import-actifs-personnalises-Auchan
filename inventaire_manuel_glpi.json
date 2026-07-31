@@ -1,0 +1,22 @@
+{
+  "inventaire": [
+    {
+      "Type d'élément": "Mobilier de bureau",
+      "Désignation": "Armoire métallique 2 portes",
+      "Numéro d'inventaire": "INV-2026-0001",
+      "Numéro de série": "N/A",
+      "Statut": "En service",
+      "Fabricant / Marque": "Bisley",
+      "Modèle": "MF2",
+      "Entité": "Entité principale",
+      "Emplacement": "Bureau 12 - Bâtiment A",
+      "Responsable / Utilisateur": "M. Diop",
+      "Groupe / Service": "Direction",
+      "Quantité": "1",
+      "Date d'achat": "2025-03-10",
+      "Date de mise en service": "2025-03-15",
+      "Fin de garantie": "N/A",
+      "Commentaires": "Rangement dossiers papier"
+    }
+  ]
+}
